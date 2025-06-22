@@ -98,7 +98,7 @@
   <div class="container">
     <h1>Terima Kasih Bu Yuni Wulan Dari, S.Pd</h1>
     <p>
-      Dengan hormat,<br><br>
+      <br><br>
       Kami, siswa-siswi kelas 8B, menyampaikan rasa terima kasih yang sebesar-besarnya kepada Ibu <strong>Yuni Wulan Dari, S.Pd</strong> atas segala bimbingan, perhatian, serta tanggung jawab yang telah Ibu berikan selama menjalankan peran sebagai <strong>wali kelas 8B</strong>.<br><br>
       Selama satu tahun terakhir, Ibu telah menjadi sosok yang tidak hanya mengarahkan kami dalam hal akademik, tetapi juga menjadi pendamping yang sabar, penyemangat yang tulus, serta panutan yang kami hormati.<br><br>
       Setiap nasihat, teguran, dan dukungan yang Ibu berikan telah menjadi bagian penting dari proses tumbuh dan belajar kami.<br><br>
